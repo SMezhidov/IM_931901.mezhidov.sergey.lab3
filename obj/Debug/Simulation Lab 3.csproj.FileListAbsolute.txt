@@ -1,0 +1,20 @@
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\bin\Debug\Simulation Lab 3.exe.config
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\bin\Debug\Simulation Lab 3.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\bin\Debug\Simulation Lab 3.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\obj\Debug\Simulation Lab 3.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\obj\Debug\Simulation_Lab_3.Form1.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\obj\Debug\Simulation_Lab_3.Properties.Resources.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\obj\Debug\Simulation Lab 3.csproj.GenerateResource.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\obj\Debug\Simulation Lab 3.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\obj\Debug\Simulation Lab 3.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Imitation-modeling-main\Laba3\obj\Debug\Simulation Lab 3.pdb
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\bin\Debug\Simulation Lab 3.exe.config
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\bin\Debug\Simulation Lab 3.exe
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\bin\Debug\Simulation Lab 3.pdb
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\obj\Debug\Simulation Lab 3.csprojAssemblyReference.cache
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\obj\Debug\Simulation_Lab_3.Form1.resources
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\obj\Debug\Simulation_Lab_3.Properties.Resources.resources
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\obj\Debug\Simulation Lab 3.csproj.GenerateResource.cache
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\obj\Debug\Simulation Lab 3.csproj.CoreCompileInputs.cache
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\obj\Debug\Simulation Lab 3.exe
+D:\Межидов С.Д\6 семестр\Имитационное моделирование\931903.IM.Smirnov.Nikita.lab3-main\obj\Debug\Simulation Lab 3.pdb
